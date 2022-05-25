@@ -60,7 +60,7 @@ body {
     height: inherit;
     display: flex;
     align-items: center;
-    animation: slideshow 7s infinite linear;
+    animation: slideshow 10s infinite linear;
 }
 
 .carousel__image {
